@@ -1,0 +1,3 @@
+[submodule "LLMs-from-scratch"]
+	path = LLMs-from-scratch
+	url = https://github.com/rasbt/LLMs-from-scratch.git
