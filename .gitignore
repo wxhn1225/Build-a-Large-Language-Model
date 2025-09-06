@@ -1,2 +1,8 @@
 .idea
-test
+test/*
+!test/a.ipynb
+!test/instruction-data-with-response.json
+!test/previos_chapters.py
+!test/gpt_download.py
+gpt2
+__pycache__
